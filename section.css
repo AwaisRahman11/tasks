@@ -1,0 +1,50 @@
+.section-one {
+  width: 900px;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(0, 255, 255, 0.8);
+  border-radius: 25px 10px;
+}
+.section-two {
+  width: 900px;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(255, 255, 0, 0.8);
+  border-radius: 25px 10px;
+}
+.section-three {
+  width: 900px;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(3, 252, 3, 0.8);
+  border-radius: 25px 10px;
+}
+.section-four {
+  width: 900px;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(0, 0, 255, 0.514);
+  border-radius: 25px 10px;
+}
+.section-five {
+  width: 900px;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(220, 20, 60, 0.8);
+  border-radius: 25px 10px;
+}
+body {
+  background-color: black;
+  background-size: cover;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.557);
+  font-size: 15px;
+}
+h1 {
+  color: rgba(255, 255, 0, 0.737);
+  font-size: xx-large;
+  background-size: contain;
+}
